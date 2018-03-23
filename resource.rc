@@ -1,0 +1,3 @@
+aaaa ICON "C8.ico"
+
+#include "wx/msw/wx.rc"

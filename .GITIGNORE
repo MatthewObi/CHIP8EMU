@@ -1,0 +1,10 @@
+*.bat
+bin
+make
+obj
+*.o
+*.cbp
+*.bmarks
+*.depend
+*.layout
+openal32.dll

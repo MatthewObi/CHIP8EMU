@@ -1,0 +1,3 @@
+// the configured options and settings for MonPlusPlus
+#define CHIP8EMU_VERSION_MAJOR @CHIP8EMU_VERSION_MAJOR@
+#define CHIP8EMU_VERSION_MINOR @CHIP8EMU_VERSION_MINOR@
